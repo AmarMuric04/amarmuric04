@@ -27,8 +27,8 @@ I'm a passionate Fullstack Developer with a solid grasp of modern web technologi
 
 
 ## 📫 How to Reach Me
-- **Email:** [muricamar2004@example.com](mailto:muricamar2004@example.com)
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/amar-muri%C4%87-52564b2a2/)
+- **Email:** [muricamar2004@example.com](mailto:muricamar2004@gmail.com)
+- **LinkedIn:** [Amar Murić](https://www.linkedin.com/in/amar-muri%C4%87-52564b2a2/)
 
 ---
 
