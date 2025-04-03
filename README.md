@@ -45,7 +45,8 @@ I'm a passionate Fullstack Developer with a solid grasp of modern web technologi
 
 ### Frontend  
 - **Languages:** HTML5, JavaScript, TypeScript  
-- **Libraries/Frameworks:** ReactJS, NextJS *(primary)*  
+- **Libraries/Frameworks:** ReactJS, NextJS *(primary)*
+- **Testing Libraries** React Testing Library, Jest, Vitest, Pywright
 - **UI Component Libraries:** Materialize UI, Radix UI, ShadCN, Parallax  
 - **State Management:** Zustand *(primary)*, Redux, Redux Toolkit, Jotai, Context API  
 - **Styling:** Tailwind CSS *(primary)*, Styled Components, CSS Modules, Bootstrap, SASS, SCSS  
