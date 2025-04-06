@@ -14,6 +14,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)
@@ -34,6 +35,9 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-20B2AA?logo=python&logoColor=white)
+![Toga](https://img.shields.io/badge/Toga-512DA8?logo=python&logoColor=white)
 
 ---
 
@@ -58,7 +62,7 @@ I'm a passionate Fullstack Developer with a solid grasp of modern web technologi
 
 ### GUI/Desktop
 - **Languages:** Python, Javascript, Typescript
-- **Frameworks** Beeware (Toga), Kivy, Tkinter, Electron
+- **Frameworks:** Beeware (Toga), Kivy, Tkinter, Electron
 
 ### Other Libraries & Tools  
 - **Libraries:** React Query, React Router, Axios, JWT, Socket.IO  
