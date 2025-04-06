@@ -46,14 +46,19 @@ I'm a passionate Fullstack Developer with a solid grasp of modern web technologi
 ### Frontend  
 - **Languages:** HTML5, JavaScript, TypeScript  
 - **Libraries/Frameworks:** ReactJS, NextJS *(primary)*
+- **Desktop Web Tech:** Electron (with React, Tailwind, Zustand, etc.)
 - **Testing Libraries** React Testing Library, Jest, Vitest, Pywright
 - **UI Component Libraries:** Materialize UI, Radix UI, ShadCN, Parallax  
 - **State Management:** Zustand *(primary)*, Redux, Redux Toolkit, Jotai, Context API  
 - **Styling:** Tailwind CSS *(primary)*, Styled Components, CSS Modules, Bootstrap, SASS, SCSS  
 
 ### Backend  
-- **Languages/Frameworks:** NodeJS, Express  
-- **Databases:** MongoDB (with Mongoose), SQL (with Sequelize)  
+- **Languages/Frameworks:** NodeJS, Express, Flask  
+- **Databases:** MongoDB (with Mongoose), SQL (with Sequelize)
+
+### GUI/Desktop
+- **Languages:** Python, Javascript, Typescript
+- **Frameworks** Beeware (Toga), Kivy, Tkinter, Electron
 
 ### Other Libraries & Tools  
 - **Libraries:** React Query, React Router, Axios, JWT, Socket.IO  
