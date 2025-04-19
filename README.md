@@ -1,5 +1,4 @@
-# Hi there, I'm Amar Murić 👋
-
+Hi there, I'm Amar Murić 👋
 
 ### 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -38,6 +37,8 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-20B2AA?logo=python&logoColor=white)
 ![Toga](https://img.shields.io/badge/Toga-512DA8?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ffffff?logo=python&logoColor=black&label=BeautifulSoup)
 
 ---
 
@@ -61,8 +62,11 @@ I'm a passionate Fullstack Developer with a solid grasp of modern web technologi
 - **Databases:** MongoDB (with Mongoose), SQL (with Sequelize)
 
 ### GUI/Desktop
-- **Languages:** Python, Javascript, Typescript
+- **Languages:** Python, Javascript, Typescript  
 - **Frameworks:** Beeware (Toga), Kivy, Tkinter, Electron
+
+### Automation / Web Scraping  
+- **Libraries:** Selenium, BeautifulSoup
 
 ### Other Libraries & Tools  
 - **Libraries:** React Query, React Router, Axios, JWT, Socket.IO  
