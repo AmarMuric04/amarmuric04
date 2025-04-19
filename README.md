@@ -38,7 +38,7 @@ Hi there, I'm Amar Murić 👋
 ![Kivy](https://img.shields.io/badge/Kivy-20B2AA?logo=python&logoColor=white)
 ![Toga](https://img.shields.io/badge/Toga-512DA8?logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ffffff?logo=python&logoColor=black&label=BeautifulSoup)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ffffff?logo=python&logoColor=black)
 
 ---
 
