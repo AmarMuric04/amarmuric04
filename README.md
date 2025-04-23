@@ -39,6 +39,7 @@ Hi there, I'm Amar Murić 👋
 ![Toga](https://img.shields.io/badge/Toga-512DA8?logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ffffff?logo=python&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap?logo=bootstrap&logoColor=white)
 
 ---
 
@@ -53,13 +54,13 @@ I'm a passionate Fullstack Developer with a solid grasp of modern web technologi
 - **Libraries/Frameworks:** ReactJS, NextJS *(primary)*
 - **Desktop Web Tech:** Electron (with React, Tailwind, Zustand, etc.)
 - **Testing Libraries** React Testing Library, Jest, Vitest, Pywright
-- **UI Component Libraries:** Materialize UI, Radix UI, ShadCN, Parallax  
+- **UI Component Libraries:** Materialize UI, Radix UI, ShadCN, Parallax, Bootstrap  
 - **State Management:** Zustand *(primary)*, Redux, Redux Toolkit, Jotai, Context API  
 - **Styling:** Tailwind CSS *(primary)*, Styled Components, CSS Modules, Bootstrap, SASS, SCSS  
 
 ### Backend  
 - **Languages/Frameworks:** NodeJS, Express, Flask  
-- **Databases:** MongoDB (with Mongoose), SQL (with Sequelize)
+- **Databases:** MongoDB, SQL (SQLite)
 
 ### GUI/Desktop
 - **Languages:** Python, Javascript, Typescript  
