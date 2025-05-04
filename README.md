@@ -60,7 +60,7 @@ I'm a passionate Fullstack Developer with a solid grasp of modern web technologi
 
 ### Backend  
 - **Languages/Frameworks:** NodeJS, Express, Flask  
-- **Databases:** MongoDB, SQL (SQLite)
+- **Databases:** MongoDB, PostgreSQL (w/ Prisma & Supabase)
 
 ### GUI/Desktop
 - **Languages:** Python, Javascript, Typescript  
