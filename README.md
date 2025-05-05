@@ -45,7 +45,7 @@ Hi there, I'm Amar Murić 👋
 
 ## 👨‍💻 About Me  
 
-I'm a passionate Fullstack Developer with a solid grasp of modern web technologies. I enjoy building responsive, accessible, and engaging applications. I blend creativity with code and love exploring new frameworks and languages to expand my horizons.
+I'm an expert in Fullstack Development. I enjoy building responsive, accessible, and engaging applications. I blend creativity with code and love exploring new frameworks and languages to expand my horizons.
 
 ## 🚀 My Main Stack  
 
