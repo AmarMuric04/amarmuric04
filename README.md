@@ -7,6 +7,7 @@ Hi there, I'm Amar Murić 👋
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -16,6 +17,10 @@ Hi there, I'm Amar Murić 👋
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-ffdd55?logo=drizzle&logoColor=black)
+![Neon](https://img.shields.io/badge/Neon-3E68FF?logo=neon&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-FFB800?logo=zustand&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
@@ -39,7 +44,6 @@ Hi there, I'm Amar Murić 👋
 ![Toga](https://img.shields.io/badge/Toga-512DA8?logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ffffff?logo=python&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-blueviolet?logo=bootstrap&logoColor=white)
 
 ---
 
@@ -51,23 +55,25 @@ I'm an expert in Fullstack Development. I enjoy building responsive, accessible,
 
 ### Frontend  
 - **Languages:** HTML5, JavaScript, TypeScript  
-- **Libraries/Frameworks:** ReactJS, NextJS *(primary)*
-- **Desktop Web Tech:** Electron (with React, Tailwind, Zustand, etc.)
-- **Testing Libraries** React Testing Library, Jest, Vitest, Pywright
+- **Libraries/Frameworks:** ReactJS, NextJS *(primary)*  
+- **Desktop Web Tech:** Electron (with React, Tailwind, Zustand, etc.)  
+- **Testing Libraries:** React Testing Library, Jest, Vitest, Playwright  
 - **UI Component Libraries:** Materialize UI, Radix UI, ShadCN, Parallax, Bootstrap  
 - **State Management:** Zustand *(primary)*, Redux, Redux Toolkit, Jotai, Context API  
 - **Styling:** Tailwind CSS *(primary)*, Styled Components, CSS Modules, Bootstrap, SASS, SCSS  
 
 ### Backend  
-- **Languages/Frameworks:** NodeJS, Express, Flask  
-- **Databases:** MongoDB, PostgreSQL (w/ Prisma & Supabase)
+- **Languages/Frameworks:** NodeJS, Express, Flask, Golang  
+- **Databases:** PostgreSQL, MongoDB  
+- **ORMs:** Prisma, Drizzle, Sequelize  
+- **Database-as-a-Service:** Supabase, Neon  
 
 ### GUI/Desktop
-- **Languages:** Python, Javascript, Typescript  
-- **Frameworks:** Beeware (Toga), Kivy, Tkinter, Electron
+- **Languages:** Python, JavaScript, TypeScript  
+- **Frameworks:** Beeware (Toga), Kivy, Tkinter, Electron  
 
 ### Automation / Web Scraping  
-- **Libraries:** Selenium, BeautifulSoup
+- **Libraries:** Selenium, BeautifulSoup  
 
 ### Other Libraries & Tools  
 - **Libraries:** React Query, React Router, Axios, JWT, Socket.IO  
