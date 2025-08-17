@@ -84,9 +84,7 @@ To see the websites I've built, check out [My websites related GitHub Account](h
 - **Additional Expertise:** RESTful APIs, GraphQL, Agile Development, Accessibility (WCAG 2.2), Cross-Browser Compatibility, Responsive Design, CI/CD Pipelines, Algorithms, WebSockets  
 
 ## 🌱 Currently Learning  
-- Golang for building robust REST APIs  
-- Deepening my TypeScript skills  
-- Expanding my knowledge with a 100 Days of Coding in Python challenge  
+I'm currently learning wagmi, viem & different infra technologies 
 
 ## 📫 How to Reach Me  
 - **Email:** [muricamar2004@gmail.com](mailto:muricamar2004@gmail.com)  
