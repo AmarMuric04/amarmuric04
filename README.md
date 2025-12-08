@@ -45,8 +45,6 @@ Hi there, I'm Amar Murić
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ffffff?logo=python&logoColor=black)
 
----
-
 ## About Me  
 
 Fullstack dev.
