@@ -1,6 +1,6 @@
-Hi there, I'm Amar Murić 👋
+Hi there, I'm Amar Murić
 
-### 🚀 Tech Stack
+### Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -47,13 +47,13 @@ Hi there, I'm Amar Murić 👋
 
 ---
 
-## 👨‍💻 About Me  
+## About Me  
 
-I'm an expert in Fullstack Development. I enjoy building responsive, accessible, and engaging applications. I blend creativity with code and love exploring new frameworks and languages to expand my horizons.
+Fullstack dev.
 
-To see the websites I've built, check out [My websites related GitHub Account](https://github.com/AmarMuricWebsites)
+To see the websites I've built, check out [my websites related GitHub Account](https://github.com/AmarMuricWebsites)
 
-## 🚀 My Main Stack  
+## My Main Stack  
 
 ### Frontend  
 - **Languages:** HTML5, JavaScript, TypeScript  
@@ -83,13 +83,9 @@ To see the websites I've built, check out [My websites related GitHub Account](h
 - **Tools:** Git, VS Code, Postman, Stripe, React & Redux Devtools  
 - **Additional Expertise:** RESTful APIs, GraphQL, Agile Development, Accessibility (WCAG 2.2), Cross-Browser Compatibility, Responsive Design, CI/CD Pipelines, Algorithms, WebSockets  
 
-## 🌱 Currently Learning  
-I'm currently learning wagmi, viem & different infra technologies 
-
-## 📫 How to Reach Me  
+## How to Reach Me  
 - **Email:** [muricamar2004@gmail.com](mailto:muricamar2004@gmail.com)  
 - **LinkedIn:** [Amar Murić](https://www.linkedin.com/in/amar-muri%C4%87-52564b2a2/)  
 
----
 
-*I enjoy coding, chess, and continuously learning new things.*
+*I enjoy coding, chess and nothing else.*
