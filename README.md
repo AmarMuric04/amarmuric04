@@ -1,6 +1,6 @@
-<p align="center">· · · · · ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ · · · · ·</p>
+<div align="center">
 
-<h2 align="center">Hello</h2>
+## Hello
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -18,11 +18,14 @@ TypeScript (Node.js) · Python (Flask) · MongoDB
 
 ## ┃ How to Reach Me
 
-- **Email:** [muricamar2004@gmail.com](mailto:muricamar2004@gmail.com)
-- **LinkedIn:** [Amar Murić](https://www.linkedin.com/in/amar-muri%C4%87-52564b2a2/)
+**Email:** [muricamar2004@gmail.com](mailto:muricamar2004@gmail.com)
+
+**LinkedIn:** [Amar Murić](https://www.linkedin.com/in/amar-muri%C4%87-52564b2a2/)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<p align="center"><i>I enjoy coding, chess and nothing else.</i></p>
+*I enjoy coding, chess and nothing else.*
 
-<p align="center">♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜</p>
+─────────── ♞ ───────────
+
+</div>
