@@ -1,28 +1,28 @@
-Hello
+<p align="center">· · · · · ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜ · · · · ·</p>
 
-```text
-   _____                                  _____
-  |_____|                                |_____|
-   |   |       A M A R   M U R I Ć        |   |
-   |   |    ─────────────────────────     |   |
-   |   |   coding · chess · nothing else  |   |
-  _|___|_                                _|___|_
- |_______|______________________________|_______|
-```
+<h2 align="center">Hello</h2>
 
-```text
- -=[ FRONTEND ]=------------------------------------
-   TypeScript · Redux · Tailwind · React · Next · TanStack
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
- -=[ BACKEND ]=-------------------------------------
-   TypeScript (Node.js) · Python (Flask) · MongoDB
+## ▸ Frontend
 
- -=[ REACH ME ]=------------------------------------
-```
+TypeScript · Redux · Tailwind · React · Next · TanStack
+
+─────────── ✦ ───────────
+
+## ◆ Backend
+
+TypeScript (Node.js) · Python (Flask) · MongoDB
+
+─────────── ✦ ───────────
+
+## ┃ How to Reach Me
 
 - **Email:** [muricamar2004@gmail.com](mailto:muricamar2004@gmail.com)
 - **LinkedIn:** [Amar Murić](https://www.linkedin.com/in/amar-muri%C4%87-52564b2a2/)
 
-```text
-      ·  ·  ·   ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜   ·  ·  ·
-```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<p align="center"><i>I enjoy coding, chess and nothing else.</i></p>
+
+<p align="center">♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜</p>
