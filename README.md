@@ -13,10 +13,11 @@ TypeScript (Node.js) · Python (Flask) · MongoDB
 
 **LinkedIn:** [Amar Murić](https://www.linkedin.com/in/amar-muric-52564b2a2/)
 
+-
           o
 /|   o         o
 \|=--            o
-   ##
+   ##-
                    \\
                 /   \O
                O_/   T
