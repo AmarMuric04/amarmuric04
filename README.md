@@ -11,6 +11,15 @@ TypeScript (Node.js) · Python (Flask) · MongoDB
 
 **Email:** [muricamar2004@gmail.com](mailto:muricamar2004@gmail.com)
 
-**LinkedIn:** [Amar Murić](https://www.linkedin.com/in/amar-muri%C4%87-52564b2a2/)
+**LinkedIn:** [Amar Murić](https://www.linkedin.com/in/amar-muric-52564b2a2/)
 
-*I enjoy coding, chess and nothing else.*
+          o
+/|   o         o
+\|=--            o
+   ##
+                   \\
+                /   \O
+               O_/   T
+               T    /|
+               |\  | |
+_______________|_|________
